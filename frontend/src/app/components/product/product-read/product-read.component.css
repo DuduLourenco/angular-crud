@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+a + a {
+    margin-left: 16px;
+}
+
+.edit > i {
+    color: #009900;
+    border: 1px solid #009900;
+    border-radius: 4px;
+}
+
+.delete > i {
+    color: #e35e6b;
+    border: 1px solid #e35e6b;
+    border-radius: 4px;
+}

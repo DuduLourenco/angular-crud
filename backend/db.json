@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": 5.89
+      "name": "Caneta BIC Preta 55",
+      "price": "5.99"
     },
     {
       "id": 2,
@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 4999.99
+    },
+    {
+      "name": "Produto Teste2",
+      "price": "28.99",
+      "id": 4
     }
   ]
 }
